@@ -13,3 +13,8 @@ A dataset obtained from previously occurring accidents in all the states of Indi
 
 ## TECHNOLOGY USED:
 >OpenCV,Python,dlib.
+
+## CONCLUSION
+Driving with your eyes closed, even for a second, is dangerous, so extra special precautions need to be taken while driving.
+
+As the results show, our drowsiness detector is able to detect when the driver is at risk of dozing off and then plays a loud alarm to grab his/her attention.
